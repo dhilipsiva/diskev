@@ -4,7 +4,7 @@
 
 DisKeV is an extremely fast, distributed key-value store designed to be an alternative to Redis. Built with Rust, it leverages Conflict-free Replicated Data Types (CRDTs) to ensure strong eventual consistency.
 
-- ## Features
+## Features
 
 - **Distributed by Default**: Built-in support for distributed architectures, ensuring scalability and fault tolerance.
 - **Strong Eventual Consistency**: Utilizes CRDTs to guarantee consistency across distributed nodes without sacrificing performance.
